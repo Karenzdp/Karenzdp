@@ -1,5 +1,5 @@
 <h1 align="center">✨ Hi 👋, I'm Karen Zapata ✨</h1>
-<h3 align="center">💻 Passionate about technology, creativity, and building amazing things 🚀</h3>
+<h3 align="center">💻 Passionate about technology, creativity, and building amazing things </h3>
 
 ---
 
