@@ -32,15 +32,15 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Julianlmz&show_icons=true&theme=tokyonight" alt="github stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Karenzdp&show_icons=true&theme=tokyonight" alt="github stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Julianlmz&theme=tokyonight" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karenzdp&theme=tokyonight" alt="streak stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julianlmz&layout=compact&theme=tokyonight" alt="top langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karenzdp&layout=compact&theme=tokyonight" alt="top langs"/>
 </p>
 
 ---
